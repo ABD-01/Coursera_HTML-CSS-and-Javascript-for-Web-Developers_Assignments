@@ -1,4 +1,8 @@
 body {
+<<<<<<< HEAD
     background: url('back1.jpg') no-repeat;
+=======
+    background-image: url('back.jpg');
+>>>>>>> 5ad2cde0f8e5ff37ad5d86fd4b5b734c0ee1defb
     background-color: #426ec7;
 }
