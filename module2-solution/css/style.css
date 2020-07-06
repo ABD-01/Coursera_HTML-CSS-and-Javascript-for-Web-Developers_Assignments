@@ -11,13 +11,18 @@
   border: 2px solid brown;
   margin : 8px;
   position:relative;
-  height: 150px;
 }
+
+.row>div>div>p {
+  padding: 0 10px;
+  font-size: 20px;
+}
+
 h3 {
   border: 2px solid brown;
   position : relative;
-  width: 35%;
-  left:65%;
+  width: 42%;
+  left:58%;
   margin:-2px 0px 0 2px;
   text-align:center;
   height: 30%;
