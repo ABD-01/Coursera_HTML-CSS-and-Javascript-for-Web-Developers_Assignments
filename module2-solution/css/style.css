@@ -38,6 +38,9 @@ h1 {
   text-shadow:2px 2px 10px brown;
 }
 
+#solid div, #solid p {
+  background-color: lightgreen;
+}
 
 
 
