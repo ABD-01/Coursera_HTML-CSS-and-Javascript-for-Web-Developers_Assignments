@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  background-color: #7FFFD4;
+  background-color: #51e2f5;
 }
 
 .row {
@@ -11,11 +11,13 @@
   border: 2px solid brown;
   margin : 8px;
   position:relative;
+  background-color:#FF6F61;
 }
 
 .row>div>div>p {
   padding: 0 10px;
   font-size: 20px;
+  background-color:#FF6F61;
 }
 
 h3 {
@@ -38,10 +40,15 @@ h1 {
   text-shadow:2px 2px 10px brown;
 }
 
-#solid div, #solid p {
-  background-color: lightgreen;
+#solid h3{
+  background-color: #fff685;
 }
-
+#liquid h3{
+  background-color: #01FF70;
+}
+#gas h3{
+  background-color: #001f3f;
+}
 
 
 /* For LArge Screen */
