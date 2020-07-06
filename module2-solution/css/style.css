@@ -12,7 +12,6 @@
   margin : 8px;
   position:relative;
   background-color:#FF6F61;
-  height:300px;
 }
 
 .row>div>div>p {
@@ -28,7 +27,6 @@ h3 {
   left:58%;
   margin:-2px 0px 0 2px;
   text-align:center;
-  height: 40px;
   font-size:35px;
 }
 
